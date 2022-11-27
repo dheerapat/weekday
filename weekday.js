@@ -48,4 +48,4 @@ const weekDay = (Y, m, d) => {
     }
 }
 
-weekDay(2022,11,27)
+weekDay(1900,1,1)
